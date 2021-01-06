@@ -27,7 +27,9 @@ code [here[(https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob
 
 I have created flows for automatic and manual switching of the alarm
 
-![immagine](https://user-images.githubusercontent.com/68069659/103805506-f94cce00-5053-11eb-87d8-1bb57c848e40.png)
+![immagine](![immagine](https://user-images.githubusercontent.com/68069659/103811192-d672e780-505c-11eb-8701-8a5e93f45282.png))
+
+code [here](https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob/main/flows%20alarm.txt)
 
 
 
