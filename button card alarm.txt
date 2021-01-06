@@ -1,0 +1,35 @@
+entity: alarm_control_panel.xiaomi_gateway_alarm
+show_name: false 
+show_state: false
+entity_picture: /local/scudo.png
+show_entity_picture: true
+aspect_ratio: 1/1
+color_type: card
+state:
+  - color: null
+    styles:
+      card:
+        - background-color: clack
+        - transform: null
+        - border-radius: 20px
+      entity_picture:
+        - filter: grayscale(100%)
+        - transform: scale(1.7)
+    value: disarmed
+  - color: 'rgb(0,0,255)'
+    styles:
+      card:
+        - background-color: black
+        - border-radius: 20px
+        - box-shadow: null
+        - transform: null
+        - '--mdc-ripple-color': yellow
+        - '--mdc-ripple-press-opacity': 0.5
+      entity_picture:
+        - transform: scale(1.7)
+    value: armed_away
+style:
+  card:
+    - '--mdc-ripple-color': yellow
+    - '--mdc-ripple-press-opacity': 0.5
+type: 'custom:button-card'
