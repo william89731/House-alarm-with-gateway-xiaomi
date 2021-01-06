@@ -4,7 +4,7 @@ I revived the xiaomi gateway using [home assistant](https://www.home-assistant.i
 
 # Step 1  ip and token
 
-Dopo che hai installato mi  home mod e associato il tuo gateway, in the app go to "more info","network info",  get ip and token
+After you have installed mi home mod and associated your gateway, in the app go to "more info","network info",  get ip and token
 
 ![immagine](https://user-images.githubusercontent.com/68069659/103764747-57f65580-501c-11eb-9bde-b3d018505274.png)
 
