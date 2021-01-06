@@ -25,7 +25,7 @@ code [here[(https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob
 
 # step 3: node red
 
-I have created flows for automatic and manual switching of the alarm
+I have created flows for automatic and manual switching of the alarm. enjoy!!
 
 ![immagine](https://user-images.githubusercontent.com/68069659/103811192-d672e780-505c-11eb-8701-8a5e93f45282.png)
 
