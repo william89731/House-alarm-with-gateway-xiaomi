@@ -2,14 +2,14 @@
 
 I revived the xiaomi gateway using [home assistant](https://www.home-assistant.io/), [node red](https://nodered.org/) and [mi home mod (vevs)](https://pdalife.com/mi-home-android-a35796.html)
 
-# Step 1  ip and token
+# Step 1:  ip and token
 
 After you have installed mi home mod and associated your gateway, in the app go to "more info","network info",  get ip and token
 
 ![immagine](https://user-images.githubusercontent.com/68069659/103764747-57f65580-501c-11eb-9bde-b3d018505274.png)
 
 
-# step 2 home assistant
+# step 2: home assistant
 
 search [xiaomi miio](https://www.home-assistant.io/integrations/xiaomi_miio) integration and add gateway (ip and token required)
 
@@ -23,7 +23,7 @@ code [here[(https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob
 
 
 
-# step 3 node red
+# step 3: node red
 
 I have created flows for automatic and manual switching of the alarm
 
