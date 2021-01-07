@@ -19,7 +19,7 @@ I added a custom [button card](https://github.com/custom-cards/button-card) for 
 
 ![20210106_192639](https://user-images.githubusercontent.com/68069659/103807306-83963180-5056-11eb-84e3-81a0186a2bb7.gif)
 
-code [here[(https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob/main/button%20card%20alarm.txt)
+code [here](https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob/main/button%20card%20alarm.txt)
 
 
 
