@@ -25,11 +25,16 @@ code [here](https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob
 
 # step 3: node red
 
-I have created flows for automatic and manual switching of the alarm. enjoy!!
+ enjoy the flows!!
 
-![Screenshot_20210401_223012](https://user-images.githubusercontent.com/68069659/113350684-1256d980-933a-11eb-8659-3cf54cc99296.png)
+![Screenshot_20210404_134355](https://user-images.githubusercontent.com/68069659/113507631-02164880-954c-11eb-9227-6ff1848e01c3.png)
 
 code [here](https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob/main/flows%20alarm.txt)
+
+and the alarm control panel to add to the dashboard
+
+![Screenshot_20210404_135515](https://user-images.githubusercontent.com/68069659/113507908-70a7d600-954d-11eb-8c91-284d689fa079.png)
+
 
 
 
