@@ -27,14 +27,13 @@ code [here](https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob
 
  enjoy the flows!!
 
-![Screenshot_20210404_134355](https://user-images.githubusercontent.com/68069659/113507631-02164880-954c-11eb-9227-6ff1848e01c3.png)
+![Screenshot_20210410_110132](https://user-images.githubusercontent.com/68069659/114264632-4e4e0680-99ec-11eb-9c38-1f01d385e66a.png)
 
 code [here](https://github.com/william89731/House-alarm-with-gatexay-xiaomi/blob/main/flows%20alarm.txt)
 
 and the alarm control panel to add to the dashboard
 
-![Screenshot_20210404_135515](https://user-images.githubusercontent.com/68069659/113507908-70a7d600-954d-11eb-8c91-284d689fa079.png)
-
+![Screenshot_20210410_110434](https://user-images.githubusercontent.com/68069659/114264685-953bfc00-99ec-11eb-986b-d248f23d7c17.png)
 
 
 
